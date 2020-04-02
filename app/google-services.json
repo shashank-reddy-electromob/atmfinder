@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804881517622",
+    "firebase_url": "https://facultymanagementsystem-aacad.firebaseio.com",
+    "project_id": "facultymanagementsystem-aacad",
+    "storage_bucket": "facultymanagementsystem-aacad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804881517622:android:0aecaab44b791901899c97",
+        "android_client_info": {
+          "package_name": "org.electromob.atmfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804881517622-foff61a4svedmgegqld0kftsmp759kvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.electromob.atmfinder",
+            "certificate_hash": "7364858aa871459da8518e296d5da0a94cdc59b0"
+          }
+        },
+        {
+          "client_id": "804881517622-vop7p1rc9khurnv6fdrap0ecta704ddk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMmdAc56O8S3h43WbuDcG4RSfRsi96XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804881517622-vop7p1rc9khurnv6fdrap0ecta704ddk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
